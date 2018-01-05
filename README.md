@@ -3,4 +3,4 @@
 2.cell自定义“细胞布局”
 3.支持上拉下拉刷新
 
-![image](https://github.com/Brilliance-Yin/TechnicalTest/blob/master/show.gif)
+![img](https://github.com/Brilliance-Yin/TechnicalTest/blob/master/showGif.gif)
