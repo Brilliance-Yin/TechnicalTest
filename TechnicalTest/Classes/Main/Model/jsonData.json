@@ -1,0 +1,46 @@
+{
+    "response": [
+                 {
+                 "id": 1,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/1/medium.jpg?1490801337",
+                 "title": "富士山",
+                 "description": "富士山是日本一座橫跨靜岡縣和山梨縣的活火山，位於東京西南方約80公里處，主峰海拔3776公尺，2002年8月（平成14年），經日本國土地理院重新測量後，為3775.63公尺[2]，是日本國內的最高峰。[3]富士山頂於冬季積雪，直至隔年六、七月才會溶化，在管理上屬於本州地區的富士箱根伊豆國立公園範圍內。富士山不但名列日本百名山，同時也是日本三名山之一，其名稱由來源自於竹取物語。",
+                 "is_promote": false
+                 },
+                 {
+                 "id": 2,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/2/medium.jpg?1490801448",
+                 "title": "大阪",
+                 "description": "大阪市是日本大阪府的府治，為政令指定都市之一，亦是大阪都市圈、京阪神大都市圈、乃至於近畿地方的中心城市。全市面積223平方公里，夜間人口（居住人口）約有269.5萬人，是日本人口第三多的城市；日間人口則超過353萬人，位居日本第二。",
+                 "is_promote": true
+                 },
+                 {
+                 "id": 3,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/3/medium.jpg?1490801511",
+                 "title": "新宿",
+                 "description": "新宿是日本東京的一個地區名，指的是以新宿車站為中心的地區，隸屬東京都新宿區管轄。與澀谷、池袋並列為東京都的3大副都心之一。在新宿集中了大量的企業總部和政府機關。東京都廳舍即位於西新宿。",
+                 "is_promote": false
+                 },
+                 {
+                 "id": 5,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/5/medium.jpeg?1490801725",
+                 "title": "京都",
+                 "description": "京都（是日本一座擁有悠久歷史的城市，於794年起被定為日本的首都，當時名為「平安京」，此後多次成為日本首都，成為日本的政治及文化的中心。",
+                 "is_promote": false
+                 },
+                 {
+                 "id": 4,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/4/medium.JPG?1490897475",
+                 "title": "台場",
+                 "description": "御台場或直接簡稱為台場，是日本東京灣內一座以填海造陸方式製造出來的巨大人工島。1980年代起，此地做為東京臨海副都心的核心地帶而快速開發，由於區域內陸續遷入許多大型企業的總部，並且修築了許多採用現代規劃造景的商場與娛樂設施，近年來已成為東京都內最受國內外遊客歡迎的重要景點。",
+                 "is_promote": true
+                 },
+                 {
+                 "id": 6,
+                 "image": "https://technicaltest.s3.amazonaws.com/city_guides/images/6/medium.jpg?1490921197",
+                 "title": "奈良",
+                 "description": "奈良市是日本歷史名城和國際觀光城市，也是奈良縣政府所在地和奈良縣最大的城市。日本政府指定其為中核市。",
+                 "is_promote": false
+                 }
+                 ]
+}
